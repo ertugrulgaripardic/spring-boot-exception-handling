@@ -39,7 +39,6 @@ This project demonstrates how to handle exceptions in a Spring Boot application.
     ```
 
 ## Example Endpoints
-
 - `/api/example`: Example endpoint with exception handling.
 - `/api/validation`: Example endpoint demonstrating validation errors.
 

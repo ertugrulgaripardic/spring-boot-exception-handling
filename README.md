@@ -24,7 +24,6 @@ This project demonstrates how to handle exceptions in a Spring Boot application.
 - **Exception Handling**: Includes `@ControllerAdvice` for global exception handling and custom exception classes.
 
 ## How to Run
-
 1. Clone the repository:
     ```bash
     git clone https://github.com/ertugrulgaripardic/spring-boot-exception-handling.git

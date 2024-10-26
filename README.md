@@ -11,7 +11,6 @@ This project demonstrates how to handle exceptions in a Spring Boot application.
 - **Validation Errors**: Handles validation errors for user input.
 
 ## Technologies Used
-
 - Spring Boot 3.x
 - Java 17
 - Maven

@@ -35,7 +35,6 @@ This project demonstrates how to handle exceptions in a Spring Boot application.
     mvn clean install
     mvn spring-boot:run
     ```
-
 ## Example Endpoints
 - `/api/example`: Example endpoint with exception handling.
 - `/api/validation`: Example endpoint demonstrating validation errors.

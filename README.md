@@ -17,7 +17,6 @@ This project demonstrates how to handle exceptions in a Spring Boot application.
 - JUnit 5 for Testing
 
 ## Project Structure
-
 - **Controller Layer**: Handles HTTP requests and interacts with services.
 - **Service Layer**: Contains business logic.
 - **Exception Handling**: Includes `@ControllerAdvice` for global exception handling and custom exception classes.

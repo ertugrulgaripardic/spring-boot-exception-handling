@@ -16,7 +16,7 @@ Validation Error Handling: Implements mechanisms to capture and handle validatio
 This project not only enhances the resilience of the application but also lays a foundation for building applications that prioritize user experience and maintainability. It is an essential resource for understanding the best practices of exception handling in a modern Spring Boot environment.
 
 ## Technologies Use
-- Spring Boot 3.x
+- Spring Boot 3. bb
 - Java 17
 - Maven
 - JUnit 5 for Testing
